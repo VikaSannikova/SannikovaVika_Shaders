@@ -1,2 +1,14 @@
 c:\users\виктория\documents\visual studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\SannikovaVika_Shaders.exe.config
 C:\Users\Виктория\Documents\Visual Studio 2015\Projects\шейдеры ялляля\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\SannikovaVika_Shaders.exe.config
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\SannikovaVika_Shaders.exe
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\SannikovaVika_Shaders.pdb
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\OpenTK.dll
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\OpenTK.pdb
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\OpenTK.xml
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.Form1.resources
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.Properties.Resources.resources
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.csproj.GenerateResource.Cache
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.exe
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.pdb
