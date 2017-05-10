@@ -1,0 +1,2 @@
+c:\users\виктория\documents\visual studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\SannikovaVika_Shaders.exe.config
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\шейдеры ялляля\SannikovaVika_Shaders\SannikovaVika_Shaders\bin\Debug\SannikovaVika_Shaders.exe.config
