@@ -12,3 +12,4 @@ C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Sh
 C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.csproj.GenerateResource.Cache
 C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.exe
 C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.pdb
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\SannikovaVika_Shaders\SannikovaVika_Shaders\obj\Debug\SannikovaVika_Shaders.csprojResolveAssemblyReference.cache
